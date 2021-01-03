@@ -45,3 +45,4 @@ cookies_string,sku_id,DEFAULT_USER_AGENT(和cookie获取同一个地方就会看
 - 本来时间不足,加上一天只能测试一次.而且网络不稳定.只抢购成功2次.而且都是数量1,我记得有几个口罩不能设置数量,只能抢购1个,所以要注意这点.
 - 代码在`macOS`中编写，如果在其他平台上运行出行问题，欢迎提issue。
 # jd_seskill
+# jd_seskill
